@@ -18,10 +18,12 @@ Interactive **Power BI dashboard** analyzing **3,509 sales orders** to generate 
 
 ## Dashboard Preview
 
-### Top and Bottom Products
-
+### Top / Bottom Products
+![Top Products](Screenshot/top-bottom-products.png)
 
 ### Sales Trend
+![Sales Trend](Screenshot/sales-trend.png)
+
 ### Geographic Sales Map
 ### Profit vs Sales vs Quantity
 
