@@ -25,7 +25,13 @@ Interactive **Power BI dashboard** analyzing **3,509 sales orders** to generate 
 ![Sales Trend](Screenshot/sales-trend.png)
 
 ### Geographic Sales Map
+![Sales Map](Screenshot/sales-map.png)
+
+### Table Visual
+
+
 ### Profit vs Sales vs Quantity
+
 
 ---
 
